@@ -4,7 +4,7 @@
 ![Coding GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWdoeXhvMHYwM2RlY203YzV6MG1tcWYyOTRuMnVnYjUyNHNrejJhYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CXfIwSDtHn9wM021Lu/giphy.gif)
 
 
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/mert-codes) &nbsp;
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mert-codes) &nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:merthamzay@gmail.com)
 
 </div>
