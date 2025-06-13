@@ -7,6 +7,8 @@
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mert-codes) &nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:merthamzay@gmail.com)
 [![Portfoly](https://skillicons.dev/icons?i=bsd)](https://merts.framer.website)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/_merthylmz)
+
 
 
 </div>
