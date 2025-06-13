@@ -2,7 +2,7 @@
 <div align="center">
 
     
-[![Hello World, I'm Mert!](assets/header.gif)]((https://github.com/Zigurattt))
+[![Hello World, I'm Mert!](![hippo](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWdoeXhvMHYwM2RlY203YzV6MG1tcWYyOTRuMnVnYjUyNHNrejJhYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CXfIwSDtHn9wM021Lu/giphy.gif))]((https://github.com/Zigurattt))
 
 [![Link![Uploading ezgif-26842542711ca3.gif…]()
 edIn](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/mert-codes) &nbsp;
