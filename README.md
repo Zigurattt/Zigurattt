@@ -1,7 +1,7 @@
 
 <div align="center">
-![](gif/download.gif)
-edIn](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/mert-codes) &nbsp;
+
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/mert-codes) &nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:merthamzay@gmail.com)
 
 </div>
