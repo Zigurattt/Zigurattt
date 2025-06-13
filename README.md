@@ -33,7 +33,7 @@ edIn](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/mert-codes) 
 </p>
 
 
-## 🤝 My Contributions and [POAPs](https://www.gitpoap.io/p/0x994cca07c9f25fe84211ea61b61eab5552a32c6d):
+## 🤝 My Contributions:
 
 <p>
     <a target="_blank"href="https://www.gitpoap.io/gp/893"><img height=175 alt="Taiko GitHub Contributor 2023" src="https://www.gitpoap.io/_next/image?url=https%3A%2F%2Fassets.poap.xyz%2Fgitpoap3a-2023-taiko-contributor-2022-logo-1671723111328.png&w=750&q=75" />&nbsp;&nbsp;
