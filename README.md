@@ -1,5 +1,6 @@
 ## Hi there 👋
 <div align="center">
+![Uploading ezgif-26842542711ca3.gif…]()
 
 [![Hello World, I'm Mert!](assets/header.gif)]((https://github.com/Zigurattt))
 Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on [Pinterest](https://www.pinterest.com/).
