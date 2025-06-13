@@ -1,11 +1,11 @@
 ## Hi there 👋
 <div align="center">
-![Uploading ezgif-26842542711ca3.gif…]()
 
+    
 [![Hello World, I'm Mert!](assets/header.gif)]((https://github.com/Zigurattt))
-Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on [Pinterest](https://www.pinterest.com/).
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/mert-codes) &nbsp;
+[![Link![Uploading ezgif-26842542711ca3.gif…]()
+edIn](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/mert-codes) &nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:jasper.d.gabriel@gmail.com?subject=Hello%20Jasper,%20From%20Github)
 
 </div>
