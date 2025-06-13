@@ -1,8 +1,7 @@
 ## Hi there 👋
 <div align="center">
+![download](https://github.com/user-attachments/assets/8aa7962b-dcdb-4a63-a96a-f94bcd729f9e)
 
-    
-[![Hello World, I'm Mert!](![til](https://raw.githubusercontent.com/hashrocket/hr-til/master/app/assets/images/banner.png)]((https://github.com/Zigurattt))
 
 [![Link![Uploading ezgif-26842542711ca3.gif…]()
 edIn](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/mert-codes) &nbsp;
