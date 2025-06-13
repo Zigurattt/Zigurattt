@@ -23,7 +23,7 @@
 
 ## 💻 My Tech Stack:
 
-[![Next.js, C++, Node.js, JavaScript, TypeScript, C, Python, Docker](https://skillicons.dev/icons?i=next,cpp,nodejs,js,ts,c,py,docker)](https://skillicons.dev)
+[![Next.js, C++, Node.js, JavaScript, TypeScript,Linux ,C, Python, Docker](https://skillicons.dev/icons?i=next,cpp,nodejs,js,ts,linux,c,py,docker)](https://skillicons.dev)
 
 ## 📖 Read My Blogs:
 
