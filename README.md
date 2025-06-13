@@ -1,6 +1,6 @@
 ## Hi there 👋
 <div align="center">
-![](https://github.com/Zigurattt/gif/download.gif)
+![](https://github.com/Zigurattt/gif/blob/main/download.gif)
 
 
 [![Link![Uploading ezgif-26842542711ca3.gif…]()
