@@ -23,7 +23,7 @@
 
 ## 💻 My Tech Stack:
 
-[![Next.js, Pytorch, Node.js, JavaScript, TypeScript, AWS, GCP, Solidity](https://skillicons.dev/icons?i=next,svelte,nodejs,js,ts,c,c#,solidity)](https://skillicons.dev)
+[![Next.js, Pytorch, Node.js, JavaScript, TypeScript, AWS, GCP, Solidity](https://skillicons.dev/icons?i=next,svelte,nodejs,js,ts,c,py,solidity)](https://skillicons.dev)
 
 ## 📖 Read My Blogs:
 
