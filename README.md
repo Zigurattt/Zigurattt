@@ -1,9 +1,6 @@
 
 <div align="center">
-![](download.gif)
-
-
-[![Link![Uploading ezgif-26842542711ca3.gif…]()
+![](gif/download.gif)
 edIn](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/mert-codes) &nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:merthamzay@gmail.com)
 
