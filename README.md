@@ -1,7 +1,7 @@
 
 <div align="center">
 
-![Coding GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWdoeXhvMHYwM2RlY203YzV6MG1tcWYyOTRuMnVnYjUyNHNrejJhYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CXfIwSDtHn9wM021Lu/giphy.gif)
+![Coding GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3U1emR1NnFvcjQ1YmNzZTI0bHRzczZwMGR5ajlxZHlodGVmNnJtNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nx0rz3jtxtEre/giphy.gif)
 
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mert-codes) &nbsp;
